@@ -1,2 +1,2 @@
-BeastCRM
+BeastCRM 1.2
 ========
